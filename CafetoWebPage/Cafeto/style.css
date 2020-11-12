@@ -1,0 +1,27 @@
+body {
+    background-color: #efe6e2;
+    margin: 0;
+}
+
+#img1 {
+    width: 100%;
+}
+
+.columna_top {
+    background-color: #545454;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    display:inline-block;
+    padding: 14px 16px;
+    text-align: center;
+}
+
+.menu_links {
+    display: inline-block;
+    list-style-type: none;
+    font-style: Verdana;
+    text-decoration: none;
+    color: #ff6501;
+    word-spacing: 20px;
+}
